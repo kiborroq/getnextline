@@ -4,4 +4,4 @@
 
 Иинтерфейс функции: int get_next_line(int fd, char \**line)
 
-Подключить к программе: #include get_next_line.h
+Подключить к программе: #include "get_next_line.h"
